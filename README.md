@@ -56,7 +56,9 @@
 
 ### Key Features <a name="key-features"></a>
 
-- N/A
+- Adding new books
+- Removing books
+- Displaying books
   
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
